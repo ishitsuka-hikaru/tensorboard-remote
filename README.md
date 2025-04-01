@@ -48,7 +48,7 @@ tensorboard-remote/
     ```bash
     poetry run tensorboard --logdir={LOG_PATH} --host=0.0.0.0 --port={PORT}
     ```
-    Replace {LOG_PATH} with the path to your log files and {PORT} with the desired port number.
+    Replace `{LOG_PATH}` with the path to your log files and `{PORT}` with the desired port number.
     
 2. Using the provided shell script:
    ```bash
@@ -61,7 +61,8 @@ tensorboard-remote/
 
 After starting the server, open your web browser and navigate to:
 - `http://{HOST}:{PORT}`
-Replace {HOST} with your server’s IP address or hostname, and {PORT} with the port number you specified
+
+Replace `{HOST}` with your server’s IP address or hostname, and `{PORT}` with the port number you specified
 
 
 ## Additional Notes
