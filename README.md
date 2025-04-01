@@ -1,6 +1,8 @@
 # tensorboard-remote
 A remote TensorBoard server launcher.
 
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/604d2503-33f4-4722-a01f-1c64325814bf" />
+
 
 ## File Structure
 ```bash
