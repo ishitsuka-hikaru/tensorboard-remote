@@ -28,9 +28,6 @@ tensorboard-remote/
     Append the following line to your `./bashrc` file:
     ```bash
     echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
-    ```
-    Ten reload your shell:
-    ```bash
     source ~/.bashrc
     ```
 
